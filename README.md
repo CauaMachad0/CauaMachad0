@@ -27,8 +27,8 @@ Jovem de 18 anos, apaixonado por tecnologia e determinado a trilhar seu caminho 
 
 # 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CauaMachad0&&size_weight=0.5&count_weight=0.5&show_icons=true&theme=neon" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaMachad0&layout=donut)" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=CauaMachad0&&size_weight=0.5&count_weight=0.5&show_icons=true&theme=neon" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
     
 ## 🏆 GitHub Trophies
