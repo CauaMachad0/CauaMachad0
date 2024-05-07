@@ -1,15 +1,6 @@
 # 💫 About Me:
 Jovem de 18 anos, apaixonado por tecnologia e determinado a trilhar seu caminho no mundo da programação. Aluno da FIAP e ávido aprendiz, mergulhando em cursos da Alura e Free Code Camp para dominar front-end com JavaScript, SQL e Python. Pronto para transformar sua paixão em uma carreira vibrante no universo digital.
 
-
-## 🌐 Socials:
-<div>
-  <a href="malito:contato@caua.marcelo.machado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-  <a href="https://www.linkedin.com/in/cau%C3%A3-marcelo-machado-93b8a5263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
-  <a href="https://instagram.com/_ca_machad0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-" target="_blank"</a>
-</div>
-
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -31,7 +22,6 @@ Jovem de 18 anos, apaixonado por tecnologia e determinado a trilhar seu caminho 
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=CauaMachad0&&size_weight=0.5&count_weight=0.5&show_icons=true&theme=neon" />
   <img height="180em" align="center" src="!https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
   </a>
-  <img height="140em"  width="50em" align="right" alt="Gojo" src="https://giffiles.alphacoders.com/220/220891.gif">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
@@ -46,11 +36,12 @@ Jovem de 18 anos, apaixonado por tecnologia e determinado a trilhar seu caminho 
 [![](https://visitcount.itsvg.in/api?id=CauaMachad0&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+## 🌐 Socials:
 <div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CauaMachad0/CauaMachad0/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CauaMachad0/CauaMachad0/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CauaMachad0/CauaMachad0/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="malito:contato@caua.marcelo.machado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+  <a href="https://www.linkedin.com/in/cau%C3%A3-marcelo-machado-93b8a5263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
+  <a href="https://instagram.com/_ca_machad0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+" target="_blank"</a>
+  <a><img height="140em"  width="50em" align="right" alt="Gojo" src="https://giffiles.alphacoders.com/220/220891.gif"><a/>
 </div>
+
