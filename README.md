@@ -1,6 +1,9 @@
-# 💫 About Me:
-Jovem de 18 anos, apaixonado por tecnologia e determinado a trilhar seu caminho no mundo da programação. Aluno da FIAP e ávido aprendiz, mergulhando em cursos da Alura e Free Code Camp para dominar front-end com JavaScript, SQL e Python. Pronto para transformar sua paixão em uma carreira vibrante no universo digital.
-
+# 💫Olá! Eu sou meu nome é Cauã :
+- Hoje eu estudo ADS na FIAP 🎓
+-	Estudo por fora realizando cursos na Alura por exemplo 📜
+-	Fascinado por Front-End e Back-End💻
+-	Pronouns: He/him 😁
+ 
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
   <img align="center" alt="Caua-JS" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -30,16 +33,12 @@ Jovem de 18 anos, apaixonado por tecnologia e determinado a trilhar seu caminho 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CauaMachad0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=CauaMachad0&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
 <div>
   <a href="malito:contato@caua.marcelo.machado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/cau%C3%A3-marcelo-machado-93b8a5263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
-  <a href="https://instagram.com/_ca_machad0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-" target="_blank"</a>
+  <a href="https://www.instagram.com/_ca_machad0?igsh=NWtrN3o0enQ5ejZp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>
   <a><img height="140em"  width="50em" align="right" alt="Gojo" src="https://giffiles.alphacoders.com/220/220891.gif"><a/>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=CauaMachad0&icon=5&color=0)](https://visitcount.itsvg.in)
