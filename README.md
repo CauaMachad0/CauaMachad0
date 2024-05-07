@@ -1,4 +1,4 @@
-# 💫Olá! Eu sou meu nome é Cauã :
+# 💫Olá! Eu sou o Cauã :
 - Hoje eu estudo ADS na FIAP 🎓
 -	Estudo por fora realizando cursos na Alura por exemplo 📜
 -	Fascinado por Front-End e Back-End💻
