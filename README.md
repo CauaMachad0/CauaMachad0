@@ -26,13 +26,9 @@ Jovem de 18 anos, apaixonado por tecnologia e determinado a trilhar seu caminho 
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CauaMachad0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CauaMachad0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=CauaMachad0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![](https://github-readme-stats.vercel.app/api?username=CauaMachad0&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaMachad0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=CauaMachad0&show_icons=true&theme=neon)
-![](https://github-readme-stats.vercel.app/api?username=CauaMachad0&show_icons=true&bg_color=00000000)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CauaMachad0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
