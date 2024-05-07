@@ -28,10 +28,13 @@ Jovem de 18 anos, apaixonado por tecnologia e determinado a trilhar seu caminho 
 # 📊 GitHub Stats:
 <div>
   <a href="https://github.com/CauaMachad0/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=CauaMachad0&&size_weight=0.5&count_weight=0.5&show_icons=true&theme=neon" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=CauaMachad0&&size_weight=0.5&count_weight=0.5&show_icons=true&theme=neon" />
   <img height="180em" align="center" src="!https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
   </a>
+  <img height="140em"  width="50em" align="right" alt="Gojo" src="https://giffiles.alphacoders.com/220/220891.gif">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CauaMachad0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -43,3 +46,11 @@ Jovem de 18 anos, apaixonado por tecnologia e determinado a trilhar seu caminho 
 [![](https://visitcount.itsvg.in/api?id=CauaMachad0&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CauaMachad0/CauaMachad0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CauaMachad0/CauaMachad0/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CauaMachad0/CauaMachad0/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
