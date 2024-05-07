@@ -32,6 +32,7 @@ Jovem de 18 anos, apaixonado por tecnologia e determinado a trilhar seu caminho 
   <img height="180em" align="center" src="!https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
   </a>
 </div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CauaMachad0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
