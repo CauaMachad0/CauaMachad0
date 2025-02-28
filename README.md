@@ -4,7 +4,7 @@
 - 📜 Complemento meus estudos com cursos na Alura e outras plataformas
 - 💻 Desenvolvedor Full Stack apaixonado por tecnologia
 - ☁️ Experiência com Cloud Computing (AWS e um pouco de Azure)
-- 🔹 Conhecimento em C#, Python e desenvolvimento Web
+- 🔹 Conhecimento em C#, Python, JAVA e desenvolvimento Web
 - 🤖 Interesse em IA, Chatbots e Ciência de Dados
 - 🔧 Buscando aprimorar habilidades em DevOps e arquitetura de software
 
