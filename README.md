@@ -1,12 +1,12 @@
-# 💫 Olá! Eu sou o Cauã :
+# 💫 Hello! I'm Cauã:
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP (2º ano)
-- 📜 Complemento meus estudos com cursos na Alura e outras plataformas
-- 💻 Desenvolvedor Full Stack apaixonado por tecnologia
-- ☁️ Experiência com Cloud Computing (AWS e um pouco de Azure)
-- 🔹 Conhecimento em C#, Python, JAVA e desenvolvimento Web
-- 🤖 Interesse em IA, Chatbots e Ciência de Dados
-- 🔧 Buscando aprimorar habilidades em DevOps e arquitetura de software
+- 🎓 Systems Analysis and Development student at FIAP (2nd year)
+- 📜 I complement my studies with courses from Alura and other platforms
+- 💻 Full Stack Developer passionate about technology
+- ☁️ Experience with Cloud Computing (AWS and some Azure)
+- 🔹 Knowledge in C#, Python, Java, and Web Development
+- 🤖 Interested in AI, Chatbots, and Data Science
+- 🔧 Currently improving my skills in DevOps and Software Architecture
 
 ## 💻 Tech Stack:
 <div style="display: inline_block"><br>
