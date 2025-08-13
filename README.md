@@ -42,7 +42,7 @@
 
 ## 🌐 Socials:
 <div>
-<a href="mailto:caua.marcelo.machado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:caua.marcelo.machado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/cau%C3%A3-marcelo-machado-93b8a5263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/_ca_machad0?igsh=NWtrN3o0enQ5ejZp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  <a><img height="140em"  width="50em" align="right" alt="Gojo" src="https://giffiles.alphacoders.com/220/220891.gif"><a/>
