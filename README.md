@@ -46,15 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats:
-<div>
-  <a href="https://github.com/CauaMachad0/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=CauaMachad0&&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CauaMachad0&layout=compact&langs_count=8&card_width=320&theme=radical" />
-  </a>
-</div>
+## 📊 GitHub Stats: <div> <a href="https://github.com/CauaMachad0/github-readme-stats"> <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=CauaMachad0&&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical" /> </a> <a href="https://github.com/anuraghazra/convoychat"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CauaMachad0&layout=compact&langs_count=8&card_width=320&theme=radical" /> </a> </div>
 
 ---
 
