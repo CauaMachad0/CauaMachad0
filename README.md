@@ -1,12 +1,15 @@
-# 💫 Hello! I'm Cauã
+# 💫 Hi! I'm Cauã Marcelo Machado
 
-- 🎓 **2nd-year Systems Analysis and Development student** at [FIAP](https://www.fiap.com.br/)  
-- 📚 Complementing my studies with **Alura** and other tech learning platforms  
-- 💻 **Full Stack Developer** passionate about building scalable, innovative solutions  
-- ☁️ Experience with **Cloud Computing** – AWS (EC2, S3, Lambda, IAM) and some Azure  
-- 🖥️ Knowledge in **Java, Python, C#, JavaScript/TypeScript** and modern web frameworks  
-- 🤖 Interests in **Artificial Intelligence, Chatbots, IoT, and Data Science**  
-- 🔧 Currently enhancing skills in **DevOps** and **Software Architecture**  
+📊 **Junior Data / BI Analyst** focused on growing into **Data Engineering**.  
+☁️ **AWS Certified Cloud Practitioner (CLF-C02)** | Python • SQL • Cloud • APIs • Automation
+
+- 🎓 Graduated in **Systems Analysis and Development** at [FIAP](https://www.fiap.com.br/)
+- 📚 Continuously improving through **Alura** and other learning platforms
+- 📈 Experience with **Python + SQL** for automation, data analysis and reporting
+- 💻 Background in **Back-end Development** with **Java + Spring Boot (REST APIs)**
+- ☁️ Cloud Computing experience with **AWS (EC2, S3, Lambda, IAM)** and some **Azure**
+- 🧠 Interests in **Data/BI, Cloud, AI and Automation**
+- 🔧 Currently enhancing skills in **DevOps** and **Software Architecture**
 
 ---
 
@@ -25,6 +28,21 @@
   <img align="center" alt="Caua-AWS" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Caua-AZURE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 </div>
+
+---
+
+## 🚀 Featured Projects
+📌 **GeoGuardian (FIAP)** — Environmental risk monitoring platform with IoT + API + dashboard  
+📌 **LorArch (FIAP)** — Real-time motorcycle tracking using Arduino + LoRa + RFID + REST API  
+📌 **PortoRepair (FIAP)** — Web system for scheduling and budgeting with database + API integration  
+📌 **EcoSafe (FIAP)** — Sustainable monitoring platform with dashboard for route optimization
+
+---
+
+## 🏅 Certifications
+- **AWS Certified Cloud Practitioner (CLF-C02)**
+- AWS Educate — Introduction to Cloud 101
+- Microsoft + freeCodeCamp — Foundational C#
 
 ---
 
@@ -52,8 +70,8 @@
 
 ## 🌐 Connect with Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caua.marcelo.machado@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-marcelo-machado-93b8a5263/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ca_machad0?igsh=NWtrN3o0enQ5ejZp)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caua-machado-dev)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ca_machad0)  
 
 <img height="140em" align="right" alt="Gojo" src="https://giffiles.alphacoders.com/220/220891.gif">
 
